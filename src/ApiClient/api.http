@@ -1,0 +1,8 @@
+﻿###order
+GET https://localhost:7238/order
+
+###send order
+POST https://localhost:7238/order/send
+
+###publish order
+POST https://localhost:7238/order/publish

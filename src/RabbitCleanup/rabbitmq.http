@@ -1,0 +1,8 @@
+GET http://guest:guest@localhost:15672/api/exchanges
+###
+
+GET http://guest:guest@localhost:15672/api/queues
+###
+
+GET http://guest:guest@localhost:15672/api/vhosts
+###
